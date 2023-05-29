@@ -1,1 +1,1 @@
-# go-trial-class-hacktiv8
+# go-trial-class
